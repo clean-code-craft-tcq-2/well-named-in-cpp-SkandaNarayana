@@ -1,5 +1,5 @@
-#include <iostream>
 #include <assert.h>
+#include "wirePairColorCoder.h"
 
 void testNumberToPair(int pairNumber,
     TelCoColorCoder::MajorColor expectedMajor,
@@ -31,3 +31,4 @@ int main() {
 
     return 0;
 }
+
