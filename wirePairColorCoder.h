@@ -36,6 +36,7 @@ namespace TelCoColorCoder {
 
     int GetPairNumberFromColor(MajorColor major, MinorColor minor);
     ColorPair GetColorFromPairNumber(int pairNumber);
+    void printReferenceManual();
 }
 
 
